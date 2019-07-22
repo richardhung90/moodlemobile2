@@ -1,7 +1,7 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
-    "desktopappname": "Moodle Desktop",
+    "app_id": "tvhung.el",
+    "appname": "NVL",
+    "desktopappname": "NVL",
     "versioncode": 3700,
     "versionname": "3.7.0",
     "cache_update_frequency_usually": 420000,
@@ -56,18 +56,7 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
-    "demo_sites": {
-        "student": {
-            "url": "https:\/\/school.demo.moodle.net",
-            "username": "student",
-            "password": "moodle"
-        },
-        "teacher": {
-            "url": "https:\/\/school.demo.moodle.net",
-            "username": "teacher",
-            "password": "moodle"
-        }
-    },
+
     "customurlscheme": "moodlemobile",
     "siteurl": "",
     "sitename": "",
